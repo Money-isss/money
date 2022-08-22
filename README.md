@@ -1,11 +1,11 @@
- [![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+
 
 <h1 align="center">Hi 👋, I'm Manish Mani Dinkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=money-isss&label=Profile%20views&color=0e75b6&style=flat" alt="money-isss" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moneyyiiss&label=Profile%20views&color=0e75b6&style=flat" alt="moneyyiiss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moneyyiiss" alt="money-isss" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moneyyiiss" alt="moneyyiiss" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/moneyyiiss" target="blank"><img src="https://img.shields.io/twitter/follow/moneyyiiss?logo=twitter&style=for-the-badge" alt="moneyyiiss" /></a> </p>
 
