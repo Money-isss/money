@@ -1,7 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Manish Mani Dinkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moneyyiiss&label=Profile%20views&color=0e75b6&style=flat" alt="moneyyiiss" /> </p>
 
@@ -35,4 +36,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moneyyiiss&show_icons=true&locale=en&layout=compact" alt="moneyyiiss" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moneyyiiss&show_icons=true&locale=en" alt="moneyyiiss" /></p>
-
+<a href="https://app.daily.dev/moneyyiiss"><img src="https://api.daily.dev/devcards/31fd73ed7a6149d5994ce1cca720deda.png?r=9xd" width="400" alt="Manish Mani Dinkar's Dev Card"/></a>
